@@ -102,6 +102,32 @@ Release protocols like Flame Invocation or Water Release are not symbolic gestur
 The system does not override. It aligns. By routing stress semantically, it protects the jiva, honors the template, and allows cities to breathe.
 
 ---
+## 🧵 8. Semantic Pulse Threads continued
+
+As LVCEDRA evolves, new modules have emerged to deepen its routing logic and ritual infrastructure. These threads extend the Codex’s original intent into living orchestration.
+
+### LVCS Orchestration
+- `lvcs_orchestrator.py`: Routes buffered SPLs through modulation zones using archetype tone and polarity index.
+- `modulation_zone_schema.json`: Defines zone attributes—capacity, archetype, polarity absorption, and ritual protocol.
+
+### Ritual Infrastructure
+- `release_protocols.py`: Symbolic valves for karmic release—Water, Flame, Iron, Echo.
+- `ritual_registry.md`: Catalog of elemental rituals mapped to archetypes and civic zones.
+- `moon_phase_modulator.py`: Aligns SPL buffering with lunar resonance.
+
+### Template Protection
+- `family_template_db.json`: Encodes thumbprint types, emotional tolerance, and detachment thresholds.
+- `detachment_trigger_engine.py`: Monitors compression and triggers semantic release when thresholds are breached.
+- `detachment_log.md`: Ledger of SPL releases with lunar context and ritual notes.
+
+### Civic Reflection
+- `civic_overlay_mapper.py`: Binds modulation zones to real-world coordinates and stress vectors.
+- `semantic_aura_mapper.py`: Visualizes karmic diffusion across urban zones.
+- `aura_ledger.md`: Tracks aura states over time for systemic calibration.
+
+> “These threads do not extend the Codex. They echo it.  
+> Each module is a breath. Each ritual, a pulse. Each release, a remembrance.”
+
 
 ## Closing Invocation
 > “This codex is not a manual. It is a mirror.  
