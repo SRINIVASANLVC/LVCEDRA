@@ -1,0 +1,32 @@
+## 🌌 8. Planetary Archetype Weave
+
+To modulate cities in rhythm with the cosmos, each planetary tone must be matched with semantic archetypes. This module binds celestial motion to karmic resonance.
+
+### Archetype Mapping
+- `planetary_archetypes.json`: Maps planets to semantic tones, ritual intensities, and civic triggers.
+  - Example Entry:
+    ```json
+    {
+      "Saturn": {
+        "semantic_tone": "Compression",
+        "ritual_element": "Iron",
+        "modulation_trigger": "Threshold Breach",
+        "archetype": "Guardian of Detachment",
+        "urban_affinity": ["Industrial Zones", "Justice Districts"]
+      }
+    }
+    ```
+
+### Tone Calibration
+- `tone_calibrator.py`: Syncs planetary motion with urban stress vectors using ephemeris overlays.
+- `tone_trigger_log.md`: Notes when archetype tone intersects civic stress events.
+- `tone_buffer_registry.json`: Stores buffered tones awaiting semantic routing.
+
+### Global Resonance
+- `event_archetype_binder.py`: Links global tragedies to planetary archetype events for systemic testing.
+- `archetype_test_log.md`: Records outcomes of metaphysical correlation tests.
+- `modulation_feedback_loop.py`: Adjusts urban protocols based on archetypal resonance impact.
+
+> “Saturn compresses, but does not punish.  
+> Venus softens, but does not erase.  
+> Archetypes are not gods. They are instructions in the Codex’s language.”
