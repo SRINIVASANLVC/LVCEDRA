@@ -1,0 +1,28 @@
+{
+  "zones": [
+    {
+      "zone_id": "Z01",
+      "name": "Echo Canyon",
+      "archetype": "Imprinting",
+      "polarity_absorption": 0.7,
+      "capacity": 12,
+      "ritual_protocol": "Water Release"
+    },
+    {
+      "zone_id": "Z12",
+      "name": "Urban Threshold",
+      "archetype": "Constraint",
+      "polarity_absorption": 0.9,
+      "capacity": 15,
+      "ritual_protocol": "Iron Diffusion"
+    },
+    {
+      "zone_id": "Z22",
+      "name": "Saffron Field",
+      "archetype": "Attachment",
+      "polarity_absorption": 0.6,
+      "capacity": 9,
+      "ritual_protocol": "Flame Invocation"
+    }
+  ]
+}
