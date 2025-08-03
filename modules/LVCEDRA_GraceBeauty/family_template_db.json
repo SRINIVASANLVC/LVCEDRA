@@ -1,0 +1,31 @@
+{
+  "templates": [
+    {
+      "template_id": "FT-A1",
+      "thumbprint_type": "Catalyst",
+      "emotional_tolerance": 0.65,
+      "compression_profile": "Spike",
+      "ancestral_archetypes": ["Assertion", "Constraint"],
+      "preferred_zones": ["Z01", "Z12"],
+      "detachment_threshold": 0.7
+    },
+    {
+      "template_id": "FT-B3",
+      "thumbprint_type": "Absorber",
+      "emotional_tolerance": 0.85,
+      "compression_profile": "Plateau",
+      "ancestral_archetypes": ["Attachment", "Imprinting"],
+      "preferred_zones": ["Z09", "Z22"],
+      "detachment_threshold": 0.9
+    },
+    {
+      "template_id": "FT-C7",
+      "thumbprint_type": "Reflector",
+      "emotional_tolerance": 0.5,
+      "compression_profile": "Burst",
+      "ancestral_archetypes": ["Detachment", "Translation"],
+      "preferred_zones": ["Z14", "Z05"],
+      "detachment_threshold": 0.6
+    }
+  ]
+}
