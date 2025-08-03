@@ -1,3 +1,8 @@
+# - ephemeris_text can be manually pasted from Lahiri PDFs for now
+# - spl_config is a dictionary of SPL zone rules (e.g. lambda functions per zone)
+# - No external APIs or libraries required—fully self-contained
+# - You can leave this file untouched until you’re ready to plug in real DOBs or SPL rules
+
 """
 modulate_planets.py
 
