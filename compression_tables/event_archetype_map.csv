@@ -1,0 +1,6 @@
+Event_ID,Event_Description,Date,Associated_SPL,Primary_Archetype,Compression_Level,Healing_Required
+EVT001,"Mass migration due to flood in Assam",2022-09-14,SPL047,Displacement,High,Template Remapping
+EVT002,"Tech layoffs across major U.S. firms",2023-03-05,SPL163,Loss of Structure,Medium,Polarity Softening
+EVT003,"Survivor-led reforms post school shooting in Uvalde",2022-06-01,SPL072,Resilience,Low,Grace Overlay
+EVT004,"Heatwave affecting elderly populations in France",2023-07-19,SPL291,Overexposure,Medium,Detachment Buffering
+EVT005,"Widespread protests against economic inequality in Chile",2021-11-30,SPL188,Rebalancing,High,Semantic Routing
