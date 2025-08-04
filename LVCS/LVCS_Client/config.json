@@ -1,0 +1,6 @@
+{
+  "encryption": true,
+  "routing_protocol": "LVCSv2",
+  "max_packet_size": 2048,
+  "heartbeat_interval": 30
+}

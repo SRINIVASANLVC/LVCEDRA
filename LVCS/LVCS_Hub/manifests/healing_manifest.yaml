@@ -1,0 +1,7 @@
+healing:
+  archetypes:
+    - Softening
+    - Constraint
+    - Expansion
+  civic_overlay: true
+  validate_against_tragedies: true

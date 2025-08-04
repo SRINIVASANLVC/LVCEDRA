@@ -1,0 +1,7 @@
+modulation:
+  polarity_threshold: 0.65
+  zones:
+    - Z12
+    - Z18
+    - Z27
+  fallback: Z03
